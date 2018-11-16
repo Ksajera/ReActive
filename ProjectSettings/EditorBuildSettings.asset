@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Testing/FirebaseTest.unity
+    guid: d52ee2707b257be41b8089734ee4c9cf
+  - enabled: 1
+    path: Assets/Scenes/Game/Splash_Screen/Splash_Screen.unity
+    guid: 2d1792a783601a64394d4a3d654137c0
+  - enabled: 1
+    path: Assets/Scenes/Game/Login & Registration/Start Page.unity
+    guid: b8d7b720f6c22014e8f0d7f9cab8c6fe
+  - enabled: 0
+    path: Assets/Scenes/Game/Login & Registration/Login & Registration.unity
+    guid: 90f5cc135a63abc40a6daa8e9a264d53
+  - enabled: 1
+    path: Assets/Scenes/Game/Login & Registration/Login.unity
+    guid: 23338a7f4579cdc449b48069ec380318
+  - enabled: 1
+    path: Assets/Scenes/Game/Login & Registration/Register.unity
+    guid: 55cadf3b51fdcd74cb1dba1cb1cbc802
+  - enabled: 1
+    path: Assets/Scenes/Game/Main Menu/Main Menu.unity
+    guid: 22377ef16c901c7499f1ffba4fa8c6d3
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Campaign.unity
+    guid: 39ef912cb3754744aa8ce6eaaee158f8
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Push Up.unity
+    guid: 37552549edc27fe4399dc256147e3fa1
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Push Up(Level 1).unity
+    guid: 43fdf8356fb84c947b2239d4eff70109
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Sit Up.unity
+    guid: 21271237a5e48254299c95636d6a1977
+  - enabled: 1
+    path: Assets/Scenes/Game/Arena/Arena Menu.unity
+    guid: 1ca838b6a71bf41498e617d62a20609f
+  - enabled: 1
+    path: Assets/Scenes/Game/Arena/Arena Exercise.unity
+    guid: b6214346ea9829448aff37e512352af6
+  - enabled: 1
+    path: Assets/Scenes/Game/PVP/PVP_Duel_PushUp.unity
+    guid: 1c7c99a5c33636140a5ec1aef1d4e160
+  - enabled: 1
+    path: Assets/Scenes/Game/PVP/PVP_Duel_SitUp.unity
+    guid: 0b14e362c5271114893ad9f049737d06
+  - enabled: 1
+    path: Assets/Scenes/Game/Inventory/Inventory Menu.unity
+    guid: f00742581f66dfa4a80e1bf8a266abf8
+  - enabled: 1
+    path: Assets/Scenes/Game/Shop/Shop Menu.unity
+    guid: 4113a5971c6425f439915f9873433a20
+  - enabled: 1
+    path: Assets/Scenes/Game/Settings/Settings Menu.unity
+    guid: c1ca5006f20666e4d993fd4a61d5155d
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Count.unity
+    guid: 649e6613753c24c43b3b421364ff7002
+  - enabled: 1
+    path: Assets/Scenes/Game/Campaign/Summary.unity
+    guid: 7f9cf65ef65d21e4c8bea2b173979306
+  m_configObjects: {}

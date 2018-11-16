@@ -1,0 +1,42 @@
+# ===========================
+# Default Collab Ignore Rules
+# ===========================
+
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.svd
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+[Oo]bj/
+[Bb]uild
+sysinfo.txt
+*.stackdump
+[Aa]ssets/AssetStoreTools*
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+# Unity3D generated meta files
+*.pidb.meta

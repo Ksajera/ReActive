@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "797189290681",
+    "firebase_url": "https://re-active.firebaseio.com",
+    "project_id": "re-active",
+    "storage_bucket": "re-active.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797189290681:android:deecf8f9d1aed189",
+        "android_client_info": {
+          "package_name": "com.tacotacotaco.ReActive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797189290681-n5t42utgnp8bvs8b5p5ko0melflrpnpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDY-djHjOq80AXkgPMuN4SmGm0SzMoXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797189290681:android:53da76af03d66d0b",
+        "android_client_info": {
+          "package_name": "com.tacotacotaco.Tacoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797189290681-n5t42utgnp8bvs8b5p5ko0melflrpnpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDY-djHjOq80AXkgPMuN4SmGm0SzMoXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
